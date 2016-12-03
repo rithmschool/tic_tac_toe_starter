@@ -1,0 +1,15 @@
+.container {
+    text-align: center;
+}
+
+.row {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.row div {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    font-size: 176px;
+}
